@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.19.2](https://github.com/googleapis/python-bigquery-pandas/compare/v0.19.1...v0.19.2) (2023-03-29)
+
+
+### Documentation
+
+* Updates with a link to the canonical source of documentation ([#620](https://github.com/googleapis/python-bigquery-pandas/issues/620)) ([1dca732](https://github.com/googleapis/python-bigquery-pandas/commit/1dca732c71e022f1897d946e2ae914e9b51bc386))
+
 ## [0.19.1](https://github.com/googleapis/python-bigquery-pandas/compare/v0.19.0...v0.19.1) (2023-01-25)
 
 
